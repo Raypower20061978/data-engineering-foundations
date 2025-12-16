@@ -1,0 +1,6 @@
+trip_id,vehicle_id,distance_miles,cost_usd
+1,VAN-01,12.5,18.75
+2,VAN-02,,22.10
+3,VAN-01,8.3,12.40
+4,VAN-03,15.0,
+5,VAN-02,20.1,30.00
